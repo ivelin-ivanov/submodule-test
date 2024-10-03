@@ -1,0 +1,3 @@
+[submodule "sparse-checkout-repo"]
+	path = sparse-checkout-repo
+	url = git@github.com:ivelin-ivanov/sparse-checkout-repo.git
